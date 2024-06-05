@@ -1,0 +1,12 @@
+Requirements
+	PHP 5.5
+	MySQL 5 database
+
+Database Name : moviebook
+
+Trước khi bắt đầu bạn cần cài đặt wamp hoặc xampp để cài đặt. Ở đây mình sử dụng wamp.
+B1: Bạn để code vào trong 'C:\wamp64\www'
+B2: Bạn cần vào 'http://localhost/phpmyadmin/'
+B3: Tạo database là 'moviebook'. Vào insert và sử dụng 'moviebook.sql' trong folder để tạo bảng và dữ liệu.
+B4: Vào 'localhost' chọn vào folder bạn đặt code. Cài đặt hoàn tất.
+
